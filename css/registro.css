@@ -1,0 +1,71 @@
+.registro {
+    padding: 20px 0;
+}
+
+hr {
+    background-color: wheat;
+}
+
+label {
+    padding-top: 5%;
+}
+
+p {
+    color: white;
+}
+
+input[type="radio"] {
+    margin-left: 25px;
+}
+
+.iniSesion {
+    background-color: rgba(0, 0, 0, 0.3);
+    border: none;
+    color: #dcab09;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 13px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    border-radius: 5px 5px 5px 5px;
+    transition: all 0.3s ease-in-out;
+}
+
+.iniSesion:hover {
+    background-color: #dcab09;
+    color: white;
+}
+
+.registrar {
+    background-color: #0976dc;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 13px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    border-radius: 5px 5px 5px 5px;
+    transition: all 0.3s ease-in-out;
+}
+
+.registrar:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+    color: #0953dc;
+}
+small
+{
+  color: rgb(238, 216, 89)!important;
+}
+#subirimg
+{
+    background-color: rgba(0, 0, 0, 0.3);
+    color: wheat;
+}
+#subirimg:hover
+{
+    background-color: rgba(54, 58, 21, 0.3);
+    color: wheat;
+}

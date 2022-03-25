@@ -1,0 +1,57 @@
+.logo {
+    width: 150px;
+}
+#navbarPropio {
+     background-color: #edcf58;
+  background-size: 80%;
+  
+  font-size: 20px;
+   }
+body {
+    background-color: #005f9d;
+}
+
+h1,
+h2,
+p,
+label {
+    color: white;
+}
+
+input[type="search"] {
+    flex-grow: 1;
+    border: 1px solid #7c91bb;
+    border-radius: 9999px;
+    margin: 0 1.2rem;
+    background-color: #f6eed3;
+}
+
+a {
+    color: rgb(36, 33, 33);
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+}
+
+a:hover {
+    color: #0953dc;
+    text-decoration: none;
+}
+
+small {
+    color: violet;
+}
+
+.modal-header,
+.modal-footer {
+    background-color: #67789b;
+    color: #f8dd70;
+}
+
+.modal-body {
+    background-color:#00304f;
+}
+.form-control {
+    text-align: center;
+    font-size: 15px !important;
+  }

@@ -1,0 +1,113 @@
+h1 {
+  font-size: 50px;
+  margin-top: 155px;
+  text-align: center;
+  color: rgb(16, 13, 31);
+  font-weight: 700;
+}
+
+h2 {
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: justify;
+  color: #03073b;
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  background: rgb(245, 245, 61);
+}
+
+.biso {
+  margin-left: 370px;
+  width: 70px;
+}
+.imagennot {
+  
+  width: 370px;
+  border-radius: 10px;
+}
+.container {
+  margin-top: 100px;
+}
+
+.parte1 {
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(
+      rgb(29 255 234 / 72%),
+      rgb(255 255 255 / 8%)
+    ),
+    url(https://www.mediasource.mx/hubfs/imagenes-blog/10-Tipos-de-Contenido-para-atraer-estudiantes.png);
+}
+
+header {
+  background-image: linear-gradient(rgb(0 120 255/30%), rgb(0 0 0 / 10%)),
+    url("https://i.pinimg.com/originals/7a/5a/b6/7a5ab6c2d8d212abd35e9e244687743a.gif");
+  background-position-x: center;
+  background-position-y: center;
+  background-size: cover;
+  height: 600px;
+  background-attachment: fixed;
+  position: relative;
+  animation: 50s hea infinite linear;
+}
+
+.wave {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.parte2 {
+  background-color: #edcf58;
+}
+
+.parte3 {
+  background-image: linear-gradient(rgb(0 120 255/20%), rgb(255 255 255 / 0%)),
+    url("https://cdn.latinus.us/wp-content/uploads/2020/07/07134514/uam-examen-admisio%CC%81n-1024x529.jpg");
+  background-position-x: center;
+  background-position-y: center;
+  background-size: cover;
+  height: 600px;
+  background-attachment: fixed;
+  position: relative;
+}
+
+.log3 {
+  margin-top: 120px;
+  margin-left: 320px;
+  width: 900px;
+}
+.et_pb_row_0 {
+  margin-top: 0%;
+  margin-left: 12%;
+  max-width: 1120px;
+  padding: 30px 0;
+  display: flex;
+}
+.col {
+  width: 100%;
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+.seccion4 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.secci {
+  flex-basis: calc(45.3% - 1rem);
+  text-align: center;
+}
+#navbarPropio {
+  background-color: #edcf58;
+background-size: 80%;
+
+font-size: 20px;
+}
+.form-control {
+  background-color: rgb(244 255 230 / 79%);
+  border-color: #42424b;
+  border-width: 2px;
+}

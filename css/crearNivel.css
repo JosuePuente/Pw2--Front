@@ -1,0 +1,14 @@
+.btnAñadir {
+    background-color: rgb(59, 138, 230)!important;
+    border: none;
+}
+
+.btnAñadir:hover {
+    background-color: rgb(54, 54, 54)!important;
+}
+.btn
+{
+    color: black;
+    background-color: rgb(223, 187, 67);
+
+}

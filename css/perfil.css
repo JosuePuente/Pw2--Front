@@ -1,0 +1,201 @@
+
+  
+  @media screen and (max-width: 1605px) {
+    .nav-container {
+      padding-left: 20% !important;
+      padding-right: 20% !important;
+    }
+  }
+  
+  @media screen and (max-width: 992px) {
+    .nav-container {
+      padding-left: 5% !important;
+      padding-right: 5% !important;
+    }
+  }
+  small
+  {
+    color: rgb(89, 136, 238)!important;
+  }
+  .img-nav {
+    border-radius: 100%;
+    -o-border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    max-width: 30px;
+    max-height: 25px;
+  }
+  
+  .img-profile {
+    display: flex;
+    width: 180px;
+    height: 180px;
+    align-items: center;
+    justify-content: center;
+    border: 7px solid #ffffff;
+    background-color: #dfe5f2;
+    border-radius: 50%;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.2);
+    position: absolute;
+  
+    left: calc(50% - 90px);
+    z-index: 1;
+  }
+  
+  .username {
+    font-weight: 300;
+    font-size: 28px;
+  }
+  
+  .name {
+    font-size: 16px;
+    display: inline;
+    font-weight: 600 !important;
+  }
+  
+  .profile-datas {
+    font-size: 16px;
+  }
+  
+  .profile-desc {
+    font-size: 16px;
+  }
+  
+  .nav-feed {
+    border-bottom: none !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 15px;
+  }
+  
+  .nav-link-1 {
+    color: #495057;
+    background-color: #fafafa !important;
+    border-color: gray #fff #fff !important;
+    border-top-right-radius: 0rem !important;
+    border-top-left-radius: 0rem !important;
+    font-size: 12px;
+    font-weight: 600;
+  }
+  
+  .nav-link-2 {
+    color: #a2a8af;
+    background-color: #fafafa !important;
+    border-color: #fff #fff #fff !important;
+    border-top-right-radius: 0rem !important;
+    border-top-left-radius: 0rem !important;
+    font-size: 12px;
+    font-weight: 600;
+  }
+  
+  .card {
+    border: 0px solid rgba(0, 0, 0, 0.125) !important;
+    border-radius: 0rem !important;
+    cursor: pointer;
+  }
+  
+  .card .card-img,
+  .card-img-top {
+    border-top-left-radius: 0rem !important;
+    border-top-right-radius: 0rem !important;
+  }
+  
+  
+  
+  .icons {
+    padding: 4%;
+    font-size: 25px;
+  }
+  
+  .button-edit {
+    color: black !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    background-color: #f8dd70;
+    border-color: #4b34ca !important;
+  }
+  .button-borrar {
+    color: black !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    background-color: #f88070;
+    border-color: #4b34ca !important;
+  }
+  .button-borrar:hover{
+    background-color: red !important;
+  }
+  .btn {
+    padding: 0.1rem 0.5rem !important;
+  }
+
+  .container2 {
+    width: 1110px;
+    margin-bottom: 10px;
+  }
+  
+  #btnAvatar {
+    position: relative;
+    overflow: hidden;
+    margin-top: 72%;
+    margin-bottom: -8%;
+    width: 100%;
+    border: none;
+    border-radius: 0;
+    font-size: 15px;
+    background: transparent;
+    color: black;
+  }
+  
+  .modal-content
+  {
+    margin-top: 40%;
+  }
+  .modal-header,
+  .modal-footer {
+      background-color: #67789b;
+      color: #f8dd70;
+  }
+  
+  .modal-body {
+      background-color:#00304f;
+  }
+  
+  .btn-primary
+  {
+    background-color:#1a547a;
+  }
+  .btn-primary:hover
+  {
+    background-color:#04314e;
+  }
+ 
+  .nohay
+  {
+   max-width: 25%;
+   margin-left: 5%;
+   margin-top: -3%;
+  }
+ 
+  #home-tab.active
+  {
+    background-color: #f8dd70;
+    border-color: #4b34ca !important;
+    color: black;
+  }
+  #home-tab:hover
+  {
+   color: wheat; 
+   border-color: #f8dd70;
+  }
+  #profile-tab.active
+  {
+    background-color: #f8dd70;
+    border-color: #4b34ca !important;
+    color: black;
+  }
+  #profile-tab:hover
+  {
+   color: wheat; 
+   border-color: #f8dd70;
+  }
